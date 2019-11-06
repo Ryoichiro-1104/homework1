@@ -1,0 +1,25 @@
+.top {
+    border:5px solid grey;
+    margin:10px auto;
+    text-align: center;
+    width:50%;
+}
+.sns a{
+    margin:10px;
+}
+.twitter{
+    background-color: #1da1f2;
+    color:white;
+    border-bottom:1px solid white ;
+}
+.facebook{
+    background-color:#3b5998;
+    color:white;
+}
+.gmail{
+    background-color: #db4437;
+    color:white;
+}
+img {
+    width:90%;
+}
